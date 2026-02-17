@@ -241,7 +241,7 @@ La toma de control del relé de extensión de Chrome requiere control de navegad
 - ejecuta la sesión sin sandbox, o
 - establece `agents.defaults.sandbox.browser.allowHostControl: true` y usa `target="host"` al llamar a la herramienta.
 
-### Configuración
+### Configuración de la Extensión
 
 1. Carga la extensión (dev/desempaquetada):
 

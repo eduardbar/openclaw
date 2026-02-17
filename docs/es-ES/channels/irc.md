@@ -290,6 +290,7 @@ Si el bot no se conecta:
    ```
 
 4. Revisa los logs del gateway:
+
    ```bash
    openclaw gateway logs
    ```
@@ -305,6 +306,7 @@ Si tu nick ya está en uso:
    ```
 
 2. O identifícate con NickServ:
+
    ```bash
    openclaw config set channels.irc.password "tu_contraseña"
    ```
@@ -324,6 +326,7 @@ Si el bot no puede unirse a canales:
 3. Verifica bans o prohibiciones de canal
 
 4. Revisa los logs para errores:
+
    ```bash
    openclaw gateway logs --level debug
    ```
@@ -341,6 +344,7 @@ Si la autenticación falla:
 2. Asegúrate de que el servidor soporte SASL
 
 3. Intenta autenticación NickServ en su lugar:
+
    ```bash
    openclaw config set channels.irc.sasl false
    openclaw config set channels.irc.password "tu_contraseña"

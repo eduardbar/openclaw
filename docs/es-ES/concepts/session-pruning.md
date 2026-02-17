@@ -318,4 +318,4 @@ await pruner.protect(sessionId);
 await pruner.unprotect(sessionId);
 ```
 
-Consulta la [Referencia API](/es-ES/api/session-pruning) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/session-pruning) para documentación completa.

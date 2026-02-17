@@ -214,6 +214,7 @@ Si el bot no ve mensajes de grupo:
    ```
 
 3. Asegúrate de que los grupos estén en la lista permitida (si está configurada):
+
    ```bash
    openclaw config get channels.whatsapp.allowedGroups
    ```
@@ -234,6 +235,7 @@ Si los mensajes al grupo no se envían:
 2. Comprueba que el bot no haya sido removido o restringido
 3. Asegúrate de que el ID del grupo sea correcto (termina en `@g.us`)
 4. Revisa los logs del gateway:
+
    ```bash
    openclaw gateway logs
    ```

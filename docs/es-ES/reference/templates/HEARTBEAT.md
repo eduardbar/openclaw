@@ -7,6 +7,6 @@ read_when:
 
 # HEARTBEAT.md
 
-# Mantén este archivo vacío (o solo con comentarios) para omitir llamadas API de heartbeat.
+# Mantén este archivo vacío (o solo con comentarios) para omitir llamadas API de heartbeat
 
-# Agrega tareas abajo cuando quieras que el agente verifique algo periódicamente.
+# Agrega tareas abajo cuando quieras que el agente verifique algo periódicamente

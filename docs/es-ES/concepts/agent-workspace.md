@@ -158,6 +158,7 @@ Si necesitas que un agente acceda a archivos fuera de su espacio de trabajo, pue
    ```
 
 2. **Deshabilitar restricciones del espacio de trabajo** (no recomendado):
+
    ```bash
    openclaw config set agents.workspaceRestrictions disabled
    ```
@@ -178,4 +179,4 @@ Deshabilitar las restricciones del espacio de trabajo permite a los agentes acce
 
 - [Agentes](/es-ES/concepts/agent) - Descripción general del sistema de agentes
 - [Sesiones](/es-ES/concepts/sessions) - Cómo funcionan las sesiones de agentes
-- [Seguridad](/es-ES/security/overview) - Mejores prácticas de seguridad para OpenClaw
+- [Seguridad](/es-ES/security/README) - Mejores prácticas de seguridad para OpenClaw

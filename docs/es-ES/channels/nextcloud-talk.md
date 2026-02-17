@@ -227,6 +227,7 @@ Si el bot no recibe mensajes:
 1. Verifica que el webhook esté correctamente registrado en Nextcloud Talk
 2. Comprueba que la URL del webhook sea accesible desde tu servidor Nextcloud
 3. Verifica los logs del gateway:
+
    ```bash
    openclaw gateway logs
    ```
@@ -260,6 +261,7 @@ Si Nextcloud no puede alcanzar el webhook:
 3. Asegúrate de que la configuración de proxy inverso sea correcta
 
 4. Prueba el endpoint del webhook directamente:
+
    ```bash
    curl -X POST https://tu-dominio.com/nextcloud-talk/webhook \
      -H "Content-Type: application/json" \

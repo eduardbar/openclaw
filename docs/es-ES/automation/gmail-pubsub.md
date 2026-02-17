@@ -44,9 +44,11 @@ La integración de Gmail Push con Pub/Sub está disponible en la versión 2025.1
 2. Ingresa un ID de suscripción (por ejemplo, `gmail-openclaw-sub`)
 3. Selecciona **Push** como tipo de entrega
 4. Ingresa la URL de tu endpoint:
+
    ```
    https://tu-gateway-host.com/webhooks/gmail/pubsub
    ```
+
 5. (Opcional) Configura autenticación para la URL del endpoint
 6. Haz clic en **Crear**
 

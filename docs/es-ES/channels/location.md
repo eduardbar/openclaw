@@ -287,6 +287,7 @@ Si los datos de ubicación no llegan:
 2. Asegúrate de que el usuario haya compartido ubicación correctamente
 
 3. Revisa los logs del gateway:
+
    ```bash
    openclaw gateway logs --level debug
    ```

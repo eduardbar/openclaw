@@ -307,24 +307,24 @@ Consulta [Streaming](/es-ES/concepts/streaming) para más detalles.
 
 Cada proveedor tiene diferentes límites de tasa:
 
-### Anthropic
+### Límites de Anthropic
 
 - **Claude 3.5 Sonnet**: 50 solicitudes/min (nivel 1)
 - **Claude 3.5 Haiku**: 50 solicitudes/min (nivel 1)
 - Los niveles superiores tienen límites más altos
 
-### OpenAI
+### Límites de OpenAI
 
 - **GPT-4o**: 500 solicitudes/min (nivel 1)
 - **GPT-4**: 500 solicitudes/min (nivel 1)
 - Los niveles superiores tienen límites más altos
 
-### Google
+### Límites de Google
 
 - **Gemini 1.5 Pro**: 2 solicitudes/min (gratis), 1000 solicitudes/min (pagado)
 - **Gemini 1.5 Flash**: 15 solicitudes/min (gratis), 2000 solicitudes/min (pagado)
 
-### Ollama
+### Límites de Ollama
 
 - Sin límites de tasa (local)
 
@@ -332,7 +332,7 @@ OpenClaw maneja automáticamente límites de tasa con reintentos exponenciales.
 
 ## Precios
 
-### Anthropic
+### Precios de Anthropic
 
 | Modelo            | Entrada        | Salida       |
 | ----------------- | -------------- | ------------ |
@@ -340,7 +340,7 @@ OpenClaw maneja automáticamente límites de tasa con reintentos exponenciales.
 | Claude 3.5 Haiku  | $0.80/M tokens | $4/M tokens  |
 | Claude 3 Opus     | $15/M tokens   | $75/M tokens |
 
-### OpenAI
+### Precios de OpenAI
 
 | Modelo      | Entrada        | Salida         |
 | ----------- | -------------- | -------------- |
@@ -348,7 +348,7 @@ OpenClaw maneja automáticamente límites de tasa con reintentos exponenciales.
 | GPT-4o mini | $0.15/M tokens | $0.60/M tokens |
 | GPT-4 Turbo | $10/M tokens   | $30/M tokens   |
 
-### Google
+### Precios de Google
 
 | Modelo           | Entrada                        | Salida         |
 | ---------------- | ------------------------------ | -------------- |
@@ -356,7 +356,7 @@ OpenClaw maneja automáticamente límites de tasa con reintentos exponenciales.
 | Gemini 1.5 Flash | $0.075/M tokens                | $0.30/M tokens |
 | Gemini 2.0 Flash | $0.00 (gratis durante preview) | $0.00          |
 
-### Ollama
+### Precios de Ollama
 
 - Gratis (costos de hardware local)
 

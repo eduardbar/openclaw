@@ -328,7 +328,7 @@ TypeBox compila esquemas a validadores JavaScript rápidos:
 
 ## Mejores Prácticas
 
-### Descripciones
+### Escribir Descripciones Claras
 
 - **Escribe descripciones claras** para todos los parámetros
 - **Incluye ejemplos** en descripciones si es útil
@@ -457,9 +457,9 @@ export const myTool = tool({
 
 Para toda la referencia de TypeBox, consulta:
 
-- **Docs de TypeBox**: https://github.com/sinclairzx81/typebox
-- **Ejemplos**: https://github.com/sinclairzx81/typebox#examples
-- **JSON Schema**: https://json-schema.org/
+- **Docs de TypeBox**: <https://github.com/sinclairzx81/typebox>
+- **Ejemplos**: <https://github.com/sinclairzx81/typebox#examples>
+- **JSON Schema**: <https://json-schema.org/>
 
 ## Ejemplos de OpenClaw
 

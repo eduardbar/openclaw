@@ -484,4 +484,4 @@ await manager.switch(sessionId);
 await manager.delete(sessionId);
 ```
 
-Consulta la [Referencia API](/es-ES/api/session) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/session) para documentación completa.

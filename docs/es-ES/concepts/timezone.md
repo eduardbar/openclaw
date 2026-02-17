@@ -269,4 +269,4 @@ const date = tz.parseRelative("mañana", timezone);
 const converted = tz.convert(timestamp, "America/Los_Angeles", "Europe/London");
 ```
 
-Consulta la [Referencia API](/es-ES/api/timezone) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/timezone) para documentación completa.

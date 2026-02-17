@@ -408,4 +408,4 @@ const messages = await manager.getMessages(session.id);
 const data = await manager.export(session.id, { format: "json" });
 ```
 
-Consulta la [Referencia API](/es-ES/api/session) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/session) para documentación completa.

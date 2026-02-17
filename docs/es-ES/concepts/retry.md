@@ -300,4 +300,4 @@ const result = await retry.execute(async () => {
 });
 ```
 
-Consulta la [Referencia API](/es-ES/api/retry) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/retry) para documentación completa.

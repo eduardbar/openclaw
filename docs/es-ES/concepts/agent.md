@@ -213,4 +213,4 @@ Esto reduce el riesgo de acciones no deseadas y mejora el rendimiento.
 - [Sesiones](/es-ES/concepts/sessions) - Entendiendo las sesiones de agentes
 - [Espacio de trabajo del agente](/es-ES/concepts/agent-workspace) - Gestión del espacio de trabajo
 - [Multi-agente](/es-ES/concepts/multi-agent) - Ejecutando múltiples agentes
-- [Herramientas](/es-ES/tools/overview) - Herramientas disponibles
+- [Herramientas](/es-ES/tools/browser) - Herramientas disponibles

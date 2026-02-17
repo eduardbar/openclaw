@@ -381,4 +381,4 @@ Esto es esperado debido a los reintentos. Implementa deduplicación usando IDs d
 
 - Aprende sobre [Hooks](/es-ES/automation/hooks) para ejecución local de código
 - Configura [Tareas programadas](/es-ES/automation/cron-jobs) para automatización basada en tiempo
-- Explora la [Referencia de configuración del Gateway](/es-ES/gateway/config) para opciones avanzadas
+- Explora la [Referencia de configuración del Gateway](/es-ES/gateway/configuration) para opciones avanzadas

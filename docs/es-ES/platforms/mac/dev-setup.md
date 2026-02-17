@@ -90,6 +90,7 @@ OPENCLAW_CONFIG_DIR=~/.openclaw-dev
 
 1. **Desde Xcode**: Presiona `Cmd + R` para construir y ejecutar
 2. **Desde terminal**:
+
    ```bash
    pnpm dev:mac
    ```

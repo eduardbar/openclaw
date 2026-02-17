@@ -74,6 +74,7 @@ En WhatsApp, puedes unirte a grupos de dos maneras:
    ```
 
 2. **Escanear un código QR de invitación**
+
    ```bash
    # Usa la función de enlace de invitación de WhatsApp
    ```
@@ -105,6 +106,7 @@ Para grupos de Telegram:
    ```
 
 3. **Hacer el bot administrador** (recomendado)
+
    ```bash
    # Esto permite funciones completas como borrar mensajes, patear usuarios, etc.
    ```
@@ -139,6 +141,7 @@ Para espacios de trabajo de Slack:
    ```
 
 2. **Invitar el bot a canales**
+
    ```bash
    # En Slack: /invite @openclaw
    ```
@@ -535,6 +538,7 @@ Si el bot no responde en grupos:
    - Slack: Verifica ámbitos de la aplicación
 
 4. Revisa los logs:
+
    ```bash
    openclaw gateway logs
    ```
@@ -668,7 +672,7 @@ await agent.start();
 - [Mensajes Grupales de WhatsApp](/es-ES/channels/group-messages)
 - [Grupos de Difusión de WhatsApp](/es-ES/channels/broadcast-groups)
 - [Documentación de Canales](/es-ES/channels)
-- [Configuración de Agentes](/es-ES/configuration/agents)
+- [Configuración de Agentes](/es-ES/concepts/agent)
 
 ## Soporte
 

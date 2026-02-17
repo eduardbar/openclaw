@@ -351,4 +351,4 @@ const message = await queue.dequeue();
 await queue.clear();
 ```
 
-Consulta la [Referencia API](/es-ES/api/queue) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/queue) para documentación completa.

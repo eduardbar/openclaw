@@ -65,6 +65,7 @@ Una vez que tengas un grupo de difusión creado:
 2. Busca tu grupo de difusión en la salida (aparecerá como un chat)
 
 3. Configura tu agente para usar el grupo de difusión:
+
    ```bash
    openclaw config set agents.default.channels.whatsapp.broadcastGroupId "ID_DEL_GRUPO"
    ```
@@ -234,6 +235,7 @@ Si los mensajes al grupo de difusión no se entregan:
 1. Verifica que los contactos tengan tu número guardado
 2. Confirma que el grupo de difusión existe y está activo
 3. Revisa el estado de conexión de WhatsApp:
+
    ```bash
    openclaw channels status
    ```
@@ -255,6 +257,7 @@ Si los agentes no reciben mensajes del grupo de difusión:
    ```
 
 3. Revisa los logs del agente:
+
    ```bash
    openclaw agent logs agent_name
    ```
@@ -361,7 +364,7 @@ await sendAlert("info", "Despliegue completado exitosamente");
 
 - [Documentación de Grupos de WhatsApp](/es-ES/channels/groups)
 - [Documentación de Canales de WhatsApp](/es-ES/channels/whatsapp)
-- [Guía de Configuración Multi-Agente](/es-ES/configuration/multi-agent)
+- [Guía de Configuración Multi-Agente](/es-ES/concepts/multi-agent)
 - [Documentación de la API de WhatsApp Business](https://developers.facebook.com/docs/whatsapp)
 
 ## Soporte

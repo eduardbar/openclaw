@@ -83,7 +83,7 @@ Los tenants de Lark (global) deben usar [https://open.larksuite.com/app](https:/
 2. Completa el nombre + descripción de la app
 3. Elige un icono de app
 
-![Crear app empresarial](../images/feishu-step2-create-app.png)
+![Crear app empresarial](/images/feishu-step2-create-app.png)
 
 ### 3. Copiar credenciales
 
@@ -94,7 +94,7 @@ Desde **Credenciales e información básica**, copia:
 
 ❗ **Importante:** mantén el App Secret privado.
 
-![Obtener credenciales](../images/feishu-step3-credentials.png)
+![Obtener credenciales](/images/feishu-step3-credentials.png)
 
 ### 4. Configurar permisos
 
@@ -126,7 +126,7 @@ En **Permisos**, haz clic en **Importación por lotes** y pega:
 }
 ```
 
-![Configurar permisos](../images/feishu-step4-permissions.png)
+![Configurar permisos](/images/feishu-step4-permissions.png)
 
 ### 5. Habilitar capacidad de bot
 
@@ -135,7 +135,7 @@ En **Capacidad de la app** > **Bot**:
 1. Habilita la capacidad de bot
 2. Establece el nombre del bot
 
-![Habilitar capacidad de bot](../images/feishu-step5-bot-capability.png)
+![Habilitar capacidad de bot](/images/feishu-step5-bot-capability.png)
 
 ### 6. Configurar suscripción de eventos
 
@@ -151,7 +151,7 @@ En **Suscripción de eventos**:
 
 ⚠️ Si el gateway no está en ejecución, la configuración de conexión larga puede fallar al guardar.
 
-![Configurar suscripción de eventos](../images/feishu-step6-event-subscription.png)
+![Configurar suscripción de eventos](/images/feishu-step6-event-subscription.png)
 
 ### 7. Publicar la app
 

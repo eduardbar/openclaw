@@ -691,7 +691,7 @@ const handler: HookHandler = async (event) => {
 };
 ```
 
-### Verificar elegibilidad
+### Verificar Elegibilidad del Hook
 
 Verifica por qué un hook no es elegible:
 

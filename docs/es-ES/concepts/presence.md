@@ -225,4 +225,4 @@ await presence.showTyping(channelId);
 await presence.setStatusMessage("Trabajando en actualizaciones");
 ```
 
-Consulta la [Referencia API](/es-ES/api/presence) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/presence) para documentación completa.

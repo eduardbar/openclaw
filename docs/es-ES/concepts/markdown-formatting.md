@@ -364,5 +364,5 @@ La interfaz web renderiza markdown usando:
 ## Ver también
 
 - [Agentes](/es-ES/concepts/agent) - Cómo responden los agentes con markdown
-- [Canales](/es-ES/channels/overview) - Soporte de markdown en diferentes canales
-- [Herramientas personalizadas](/es-ES/tools/custom) - Devolver markdown desde herramientas
+- [Canales](/es-ES/channels/telegram) - Soporte de markdown en diferentes canales
+- [Herramientas personalizadas](/es-ES/tools/skills) - Devolver markdown desde herramientas

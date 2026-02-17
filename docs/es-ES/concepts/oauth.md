@@ -233,7 +233,7 @@ Al desarrollar con OAuth:
 3. **Prueba con múltiples usuarios** para verificar alcances
 4. **Documenta alcances requeridos** para cada característica
 
-Consulta la [Guía del Desarrollador](/es-ES/development/oauth) para más detalles.
+Consulta la [Guía del Desarrollador](/es-ES/concepts/oauth) para más detalles.
 
 ## Referencias API
 
@@ -256,4 +256,4 @@ const token = await client.getAccessToken();
 const newToken = await client.refreshToken();
 ```
 
-Consulta la [Referencia API](/es-ES/api/oauth) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/oauth) para documentación completa.

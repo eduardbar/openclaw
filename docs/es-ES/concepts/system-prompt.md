@@ -320,4 +320,4 @@ builder.addInstructions("Texto de instrucción personalizado...");
 const tokens = await builder.countTokens();
 ```
 
-Consulta la [Referencia API](/es-ES/api/system-prompt) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/system-prompt) para documentación completa.

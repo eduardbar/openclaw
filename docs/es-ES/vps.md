@@ -13,8 +13,8 @@ despliegues en la nube a alto nivel.
 
 ## Elige un proveedor
 
-- **Railway** (un clic + configuración en navegador): [Railway](/es-ES/install/railway)
-- **Northflank** (un clic + configuración en navegador): [Northflank](/es-ES/install/northflank)
+- **Railway** (un clic + configuración en navegador): [Railway](/es-ES/install/docker)
+- **Northflank** (un clic + configuración en navegador): [Northflank](/es-ES/install/docker)
 - **Oracle Cloud (Always Free)**: [Oracle](/es-ES/platforms/oracle) — $0/mes (Always Free, ARM; la capacidad/registro puede ser delicado)
 - **Fly.io**: [Fly.io](/es-ES/install/fly)
 - **Hetzner (Docker)**: [Hetzner](/es-ES/install/hetzner)

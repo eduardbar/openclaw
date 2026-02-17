@@ -45,8 +45,6 @@ Después de la primera ejecución, la configuración persiste en `~/.openclaw/co
 
 ## ¿Qué es OpenClaw?
 
-### ¿Qué es OpenClaw?
-
 OpenClaw es un framework de agente de código abierto y autohospedado que te permite:
 
 - Ejecutar agentes LLM localmente o en tu propia infraestructura
@@ -839,7 +837,7 @@ Orden de prioridad:
 2. `OPENCLAW_AGENT_MODEL` variable de entorno
 3. Auto-detectado del primer proveedor configurado (OpenAI, Anthropic, etc.)
 
-### ¿Cómo cambio el modelo predeterminado?
+### Cambiar el modelo predeterminado
 
 ```bash
 openclaw config set agent.model gpt-4
@@ -1664,4 +1662,4 @@ disabled = ["abort", "reset"]
 - [Variables de entorno](/es-ES/help/environment) - Referencia de variables de entorno
 - [Scripts](/es-ES/help/scripts) - Documentación de scripts del repositorio
 
-O abre un issue: https://github.com/openclaw/openclaw/issues
+O abre un issue: <https://github.com/openclaw/openclaw/issues>

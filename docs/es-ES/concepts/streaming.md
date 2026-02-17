@@ -319,4 +319,4 @@ for await (const chunk of stream) {
 }
 ```
 
-Consulta la [Referencia API](/es-ES/api/streaming) para documentación completa.
+Consulta la [Referencia API](/es-ES/concepts/streaming) para documentación completa.

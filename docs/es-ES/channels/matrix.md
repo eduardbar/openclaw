@@ -354,6 +354,7 @@ Si el bot no se conecta:
    ```
 
 4. Revisa los logs del gateway:
+
    ```bash
    openclaw gateway logs
    ```
@@ -405,6 +406,7 @@ Si no recibes mensajes:
 3. Asegúrate de que el bot tenga poder suficiente en la sala
 
 4. Revisa los logs para errores:
+
    ```bash
    openclaw gateway logs --level debug
    ```

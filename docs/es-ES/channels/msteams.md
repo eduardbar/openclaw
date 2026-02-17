@@ -537,7 +537,7 @@ Los bots pueden enviar archivos en DMs usando el flujo FileConsentCard (incorpor
 
 Los bots no tienen una unidad personal de OneDrive (el endpoint `/me/drive` de API de Graph no funciona para identidades de aplicación). Para enviar archivos en chats grupales/canales, el bot sube a un **sitio de SharePoint** y crea un enlace para compartir.
 
-### Configuración
+### Configuración de SharePoint
 
 1. **Añadir permisos de API de Graph** en Entra ID (Azure AD) → Registro de Aplicación:
    - `Sites.ReadWrite.All` (Application) - subir archivos a SharePoint

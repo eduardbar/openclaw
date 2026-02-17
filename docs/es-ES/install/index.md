@@ -13,7 +13,7 @@ title: "Instalación"
 
 ## Requisitos del sistema
 
-- **[Node 22+](/install/node)** (el [script instalador](#install-methods) lo instalará si falta)
+- **[Node 22+](/install/node)** (el [script instalador](#métodos-de-instalación) lo instalará si falta)
 - macOS, Linux o Windows
 - `pnpm` solo si construyes desde código fuente
 
